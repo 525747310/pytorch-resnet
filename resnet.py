@@ -12,7 +12,7 @@ model_urls = {
     'resnet34': 'https://s3.amazonaws.com/pytorch/models/resnet34-333f7ec4.pth',
     'resnet50': 'https://s3.amazonaws.com/pytorch/models/resnet50-19c8e357.pth',
     'resnet101': 'https://s3.amazonaws.com/pytorch/models/resnet101-5d3b4d8f.pth',
-    'resnet152': 'https://s3.amazonaws.com/pytorch/models/resnet152-b121ed2d.pth',
+    'resnet152': 'https://github.com/Cyanogenoid/pytorch-resnet/releases/download/hosting/resnet152-95e0e999.pth',
 }
 
 
