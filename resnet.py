@@ -201,6 +201,7 @@ def resnet101(pretrained=False):
     return model
 
 
+#如果是True返回一个model pre-trained on ImageNet
 def resnet152(pretrained=False):
     """Constructs a ResNet-152 model.
 
